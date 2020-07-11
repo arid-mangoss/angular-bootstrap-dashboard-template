@@ -24,7 +24,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": []
           },
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-dashboard"
+    }
+  },
+  "defaultProject": "angular-dashboard",
+  "cli": {
+    "analytics": "f76023ab-b012-4c1e-ae04-32cba8ed1f9f"
+  }
 }

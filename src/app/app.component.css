@@ -1,0 +1,28 @@
+.card {
+    margin: 10px 10px 10px 10px;
+}
+
+.sidebar-nav {
+    overflow: auto;
+    margin: 0;
+    padding: 12px;
+    width: 14rem;
+    height: 100%;
+    position: fixed;
+    background-color: #4e73df;
+    font-size: 15px;
+    color: white;
+}
+
+.dashboard-container {
+    margin-left: 14rem;
+}
+
+.heading {
+    margin-left: 20px;
+}
+
+hr{
+    color: white;
+}
+
